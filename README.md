@@ -51,10 +51,7 @@ Este projeto é um dashboard interativo desenvolvido com Streamlit e Plotly para
 
 Ao executar o dashboard, selecione o mês desejado na barra lateral para visualizar as métricas e gráficos correspondentes.
 
-## 📜 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
-Desenvolvido por [Seu Nome](https://github.com/seu-usuario).
+Desenvolvido por [UsimovAcdemi](https://www.youtube.com/watch?v=P6E_Kts9pxE&ab_channel=AsimovAcademy).
 
